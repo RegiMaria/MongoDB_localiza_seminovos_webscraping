@@ -34,4 +34,4 @@ Links:
 - [MongoDB_University](https://learn.mongodb.com/)
 
 
-![mongodb.png](..%2F..%2F..%2F..%2F..%2FDownloads%2Fmongodb.png)
+![mongodb.png](img/mongodb.png)
